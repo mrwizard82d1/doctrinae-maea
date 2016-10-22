@@ -12,6 +12,13 @@ How to move a local repository into GitHub?
 - http://stackoverflow.com/questions/11276364/after-using-git-to-locally-track-a-project-how-can-i-add-it-to-github
 - file://move-local-git-to-github.pdf
 
+### Sed
+
+**The** guide to sed
+
+* http://www.grymoire.com/Unix/Sed.html
+* file://sed-an-introduction-and-tutorial.pdf 
+
 ## Software
 
 ### Languages
@@ -43,9 +50,38 @@ How to address the warning: "Reactive deref not supported in seq..."
 - https://github.com/reagent-project/reagent/issues/18
 - file://reactive-deref-not-supported-in-seq.pdf
 
+#### .NET
+
+##### NServiceBus
+
+How to remove all MSMQ queues (except audit and error):
+* https://www.ramonsmits.com/2016/03/31/delete-all-queues-except-error-and-audit.html
+* file://delete-nsb-msmqs.pdf
+
+Original post from previous question:
+
+* http://suhinini.blogspot.nl/2009/11/delete-all-msmq-queues-at-some-pc-with.html
+* file://delete-all-nsb-msmqs.pdf
+
 ## Security
 
 Historical password lengths:
 
 - http://security.stackexchange.com/questions/22721/password-length-limits-in-history-of-operating-systems-and-popular-web-sites
 - file://historical-password-lengths.pdf
+
+## Systems
+
+### Windows
+
+How to run a program as a different user?
+
+* `C:\Windows\System32\runas.exe /netonly /user:nobrainer2\willk "C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\Ssms.exe"`
+
+### Parallels
+
+How to send F11 to Visual Studio Debug?
+
+* http://kb.parallels.com/en/116172
+* file://use_f11.pdf
+
