@@ -85,3 +85,8 @@ How to send F11 to Visual Studio Debug?
 * http://kb.parallels.com/en/116172
 * file://use_f11.pdf
 
+Configure display settings on Retina
+
+* http://blog.parallels.com/2015/08/18/how-to-configure-the-best-display-settings-for-parallels-desktop-on-a-retina-mac/
+* file://configure_display_parallels.pdf
+
