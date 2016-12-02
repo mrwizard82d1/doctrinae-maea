@@ -35,6 +35,13 @@ What is the reason for Clojure distinguishing between vars and symbols?
 - http://stackoverflow.com/questions/11662084/why-does-clojure-distinguish-between-symbols-and-vars
 - file://clj-why-vars-and-symbols.pdf
 
+#### IronPython
+
+Using IronPython to access Microsoft SQL Server (using SMO)
+
+- http://www.sqlservercentral.com/articles/IronPython/141610/
+- file://using-ipy-with-sql-server.pdf
+
 ### Libs
 
 #### ClojureScript
@@ -51,6 +58,13 @@ How to address the warning: "Reactive deref not supported in seq..."
 - file://reactive-deref-not-supported-in-seq.pdf
 
 #### .NET
+
+#### Async/Await
+
+Preventing deadlocks (by **not** capturing contexts)
+
+- http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
+- file://dont-block-on-async.pdf
 
 ##### NServiceBus
 
