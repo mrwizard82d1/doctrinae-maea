@@ -64,6 +64,15 @@ How to address the warning: "Reactive deref not supported in seq..."
 - https://github.com/reagent-project/reagent/issues/18
 - file://reactive-deref-not-supported-in-seq.pdf
 
+#### JavaScript
+
+##### AngularJS
+
+How to query the scope for angular elements:
+
+* http://stackoverflow.com/questions/36999739/what-does-0-double-equals-dollar-zero-mean-in-chrome-developer-tools
+* file://chrome-dev-tools-currently-selected-element.pdf
+
 #### .NET
 
 ##### ASP.Net
