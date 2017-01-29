@@ -12,6 +12,13 @@ How to move a local repository into GitHub?
 - http://stackoverflow.com/questions/11276364/after-using-git-to-locally-track-a-project-how-can-i-add-it-to-github
 - file://move-local-git-to-github.pdf
 
+### GitHub
+
+How to preview the appearance of GitHub markdown files:
+
+* https://github.com/joeyespo/grip
+* file://grip-github-preview.pdf
+
 ### Sed
 
 **The** guide to sed
@@ -59,7 +66,16 @@ How to address the warning: "Reactive deref not supported in seq..."
 
 #### .NET
 
-#### Async/Await
+##### ASP.Net
+
+Unit testing ASP.NET Web API (including adding a test project for an existing project)
+
+* https://www.asp.net/web-api/overview/testing-and-debugging/unit-testing-with-aspnet-web-api
+* file://unit-testing-asp-net-web-api.pdf
+* http://www.peterprovost.org/blog/2012/06/16/unit-testing-asp-dot-net-web-api/
+* file://unit-testing-web-api.pdf
+
+##### Async/Await
 
 Preventing deadlocks (by **not** capturing contexts)
 
