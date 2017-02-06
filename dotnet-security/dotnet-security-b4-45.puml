@@ -1,0 +1,34 @@
+@startuml
+title .NET Security Classes (< 4.5)
+
+interface IIdentity {
+    string AuthenticationType { get; }
+    bool IsAuthenticated { get; }
+    string Namea { get; }
+}
+
+interface IPrincipal {
+    IIdentity Identity { get; }
+    bool IsInRole(string) { get; }
+}
+
+IIdentity <|-- WindowsIdentity
+IIdentity <|-- GenericIdentity
+IIdentity <|-- FormsIdentity
+
+IPrincipal <|-- WindowsPrincipal
+IPrincipal <|-- GenericPrincipal
+IPrincipal <|-- RolePrincipal
+
+note "Support Windows authentication" as N1
+WindowsIdentity .. N1
+N1 .. WindowsPrincipal
+
+note "Used for custom authentication" as N2
+GenericIdentity .. N2
+N2 .. GenericPrincipal
+
+note "From `System.Web.Security`" as N3
+RolePrincipal .. N3
+
+@enduml

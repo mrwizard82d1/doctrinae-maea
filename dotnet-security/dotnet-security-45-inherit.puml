@@ -1,0 +1,53 @@
+@startuml
+title .NET Security Classes (>= 4.5)
+
+interface IIdentity {
+    string AuthenticationType { get; }
+    bool IsAuthenticated { get; }
+    string Name { get; }
+}
+
+interface IPrincipal {
+    IIdentity Identity { get; }
+    bool IsInRole(string) { get; }
+}
+
+class ClaimsIdentity {
+    IEnumerable<Claim> Claims { get; }
+
+    IEnumerable<Claim> FindAll()
+    Claim FindFirst()
+    bool HasClaim()
+}
+
+class ClaimsPrincipal {
+    ReadOnlyCollection<ClaimsIdentity> Identities { get; }
+
+    IEnumerable<Claim> FindAll()
+    Claim FindFirst()
+    bool HasClaim()
+}
+
+note as N1
+The preferred methods
+for dealing with Claims
+are available 
+on ClaimsIdentity
+and on ClaimsPrincipal
+end note
+N1 .. ClaimsPrincipal
+N1 .. ClaimsIdentity
+
+IIdentity <|-- ClaimsIdentity
+
+IPrincipal <|-- ClaimsPrincipal
+
+ClaimsIdentity <|-- WindowsIdentity
+ClaimsIdentity <|-- GenericIdentity
+ClaimsIdentity <|-- FormsIdentity
+
+ClaimsPrincipal <|-- WindowsPrincipal
+ClaimsPrincipal <|-- GenericPrincipal
+ClaimsPrincipal <|-- RolePrincipal
+
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+Title "Bob is a domain administrator"
+
+object bobClaimsPrinicpal
+object bobClaimsIdentity
+object bobClaim {
+    Type : ClaimsType.Role
+    Value: BuiltinDomainAdministrator
+    Issuer: ActiveDirectory
+}
+
+bobClaimsPrinicpal --> bobClaimsIdentity
+bobClaimsIdentity --> bobClaim
+
+@enduml

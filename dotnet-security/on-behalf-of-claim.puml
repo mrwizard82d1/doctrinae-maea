@@ -1,0 +1,15 @@
+@startuml
+Title "Carol acts on behalf of Alice"
+
+object carolClaimsPrinicpal
+object carolClaimsIdentity
+object carolClaim {
+    Type : "acts on behalf of"
+    Value: "alice@example.com"
+    Issuer: "carol"
+}
+
+carolClaimsPrinicpal --> carolClaimsIdentity
+carolClaimsIdentity --> carolClaim
+
+@enduml
