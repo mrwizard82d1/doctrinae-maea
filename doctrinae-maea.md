@@ -49,6 +49,20 @@ Using IronPython to access Microsoft SQL Server (using SMO)
 - http://www.sqlservercentral.com/articles/IronPython/141610/
 - file://using-ipy-with-sql-server.pdf
 
+#### Python
+
+##### subprocess
+
+Explanation of different options for interacting with child processes:
+
+* http://stackoverflow.com/questions/12600892/how-do-i-get-all-of-the-output-from-my-exe-using-subprocess-and-popen
+* file://python-subprocess-output.pdf
+
+Performance of 'subprocess' options:
+
+* http://stackoverflow.com/questions/25333537/performance-of-subprocess-check-output-vs-subprocess-call
+* file://python-subprocess-performance.pdf
+
 ### Libs
 
 #### ClojureScript
