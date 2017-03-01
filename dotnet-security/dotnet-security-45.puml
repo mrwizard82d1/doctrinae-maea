@@ -1,0 +1,55 @@
+@startuml
+title .NET Security Classes (>= 4.5)
+
+interface IIdentity {
+    string AuthenticationType { get; }
+    bool IsAuthenticated { get; }
+    string Name { get; }
+}
+
+interface IPrincipal {
+    IIdentity Identity { get; }
+    bool IsInRole(string) { get; }
+}
+
+class ClaimsIdentity {
+    IEnumerable<Claim> Claims { get; }
+}
+
+class ClaimsPrincipal {
+    ReadOnlyCollection<ClaimsIdentity> Identities { get; }
+}
+
+IIdentity <|-- ClaimsIdentity
+ClaimsIdentity o-- "*" Claim
+
+IPrincipal <|-- ClaimsPrincipal
+ClaimsPrincipal o-- "*" ClaimsIdentity
+
+class Claim {
+    string Type { get; }
+    string Value { get; }
+    string Issuer { get; }
+}
+
+note  left of Claim
+A statement made 
+about an entity 
+by someone else. 
+end note
+
+note right of Claim
+This model seems built
+for a constraint- or 
+logic-based mechanism 
+(think Prolog).
+end note
+
+note bottom of Claim
+Examples: Bob is an administrator
+Type: LocalAdministrator
+Value: true
+Issuer: ActiveDirectory
+end note
+
+@endumi

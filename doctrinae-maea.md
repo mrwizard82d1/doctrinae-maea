@@ -123,6 +123,10 @@ Historical password lengths:
 - http://security.stackexchange.com/questions/22721/password-length-limits-in-history-of-operating-systems-and-popular-web-sites
 - file://historical-password-lengths.pdf
 
+### .NET security classes
+
+[An introduction to .NET Security](./dotnet-security/dotnet-security.md)
+
 ## Systems
 
 ### Windows

@@ -1,0 +1,15 @@
+@startuml
+Title "Alice has an email address"
+
+object aliceClaimsPrinicpal
+object aliceClaimsIdentity
+object aliceClaim {
+    Type : ClaimsType.Email
+    Value: "alice@example.com"
+    Issuer: "alice"
+}
+
+aliceClaimsPrinicpal --> aliceClaimsIdentity
+aliceClaimsIdentity --> aliceClaim
+
+@enduml
