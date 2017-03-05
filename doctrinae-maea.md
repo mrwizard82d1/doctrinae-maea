@@ -49,6 +49,13 @@ Using IronPython to access Microsoft SQL Server (using SMO)
 - http://www.sqlservercentral.com/articles/IronPython/141610/
 - file://using-ipy-with-sql-server.pdf
 
+#### JavaScript
+
+How to implement enumerations:
+
+* https://stijndewitt.com/2014/01/26/enums-in-javascript/
+* file://enums-in-javascript.pdf
+
 #### Python
 
 ##### subprocess
@@ -86,6 +93,18 @@ How to query the scope for angular elements:
 
 * http://stackoverflow.com/questions/36999739/what-does-0-double-equals-dollar-zero-mean-in-chrome-developer-tools
 * file://chrome-dev-tools-currently-selected-element.pdf
+
+Unit testing Angular components with ngMock:
+
+* http://www.bradoncode.com/blog/2015/06/05/ngmock-fundamentals-testing-controllers/
+* file://angular-unit-testing-and-mocks.pdf
+
+##### Node.js
+
+How to list globally installed packages:
+
+* https://ponderingdeveloper.com/2013/09/03/listing-globally-installed-npm-packages-and-version/
+* file://list-global-npm-packages.pdf
 
 #### .NET
 
