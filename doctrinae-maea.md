@@ -12,6 +12,11 @@ How to move a local repository into GitHub?
 - http://stackoverflow.com/questions/11276364/after-using-git-to-locally-track-a-project-how-can-i-add-it-to-github
 - file://move-local-git-to-github.pdf
 
+How to use `git bisect`:
+
+- http://www.marclittlemore.com/posts/how-to-find-bugs-using-git-bisect-with-this-easy-guide/
+- file://h2-use-git-bisect.pdf
+
 ### GitHub
 
 How to preview the appearance of GitHub markdown files:
@@ -25,6 +30,17 @@ How to preview the appearance of GitHub markdown files:
 
 * http://www.grymoire.com/Unix/Sed.html
 * file://sed-an-introduction-and-tutorial.pdf 
+
+## Design
+
+### Algorithms
+
+#### Search
+
+Comparison of ternary, binary and Fibonacci search:
+
+* http://www.cs.utsa.edu/~wagner/CS3343/binsearchtest/search.html
+* file://compare-binary-ternary-fibonacci-search.pdf
 
 ## Software
 
@@ -98,6 +114,8 @@ Unit testing Angular components with ngMock:
 
 * http://www.bradoncode.com/blog/2015/06/05/ngmock-fundamentals-testing-controllers/
 * file://angular-unit-testing-and-mocks.pdf
+* https://www.sitepoint.com/mocking-dependencies-angularjs-tests/
+* file://mock-dependencies-ngjs.pdf
 
 ##### Node.js
 
@@ -145,6 +163,25 @@ Historical password lengths:
 ### .NET security classes
 
 [An introduction to .NET Security](./dotnet-security/dotnet-security.md)
+
+## Software engineering
+
+## Unit testing
+
+Hard evidence of unit testing ROI?
+
+* http://stackoverflow.com/questions/237000/is-there-hard-evidence-of-the-roi-of-unit-testing
+* file://roi-unit-testing.pdf
+
+Williams study on unit testing:
+
+* http://collaboration.csc.ncsu.edu/laurie/Papers/TDDpaperv8.pdf
+* file://tdd-costs-williams.pdf
+
+Microsoft study on unit testing:
+
+* http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf
+* file://microsoft-tdd-costs.pdf
 
 ## Systems
 
