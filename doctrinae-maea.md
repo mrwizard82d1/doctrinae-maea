@@ -117,6 +117,16 @@ Unit testing Angular components with ngMock:
 * https://www.sitepoint.com/mocking-dependencies-angularjs-tests/
 * file://mock-dependencies-ngjs.pdf
 
+Simple explanation of the AngularJS injector:
+
+* http://odetocode.com/blogs/scott/archive/2014/01/13/meet-the-angularjs-injector.aspx
+* file://meet-ngjs-injector.pdf
+
+A more complicated explanation of AngularJS dependency injection:
+
+* https://github.com/angular/angular.js/wiki/Understanding-Dependency-Injection
+* file://understanding-ng-di.pdf
+
 ##### Node.js
 
 How to list globally installed packages:
