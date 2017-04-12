@@ -167,6 +167,13 @@ Preventing deadlocks (by **not** capturing contexts)
 - http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 - file://dont-block-on-async.pdf
 
+##### Moq
+
+Mocking `async` functions:
+
+- http://stackoverflow.com/questions/21253523/setup-async-task-callback-in-moq-framework
+- file://mock_async_functions.pdf
+
 ##### NServiceBus
 
 How to remove all MSMQ queues (except audit and error):
