@@ -1,9 +1,24 @@
-
 # Doctrinae Maea
 
 What I learned (on the Mac). I need to combine this information into my DoctrinaeMaea wikidpad (only available on Windows).
 
 ## Dev Tools
+
+### Automating web requests
+
+Here's my process for automating (RESTful?) web requests
+
+* Open Chrome development tools for app
+* Navigate to "Network" tab
+* Open the context menu for the request
+* Select "Copy > As curs (bash)"
+* Paste curl script into shell script
+* Navigate to https://curl.trillworks.com/#python in another browser
+* Paste curs script into "curl command" text box
+* Python script is automatically generated in the "Python requests" text box
+* Copy text from "Python requests" box into Python file
+* Change language to "Node.js"
+* Copy text from "Node.js" text box into JavaScript file
 
 ### Git
 
