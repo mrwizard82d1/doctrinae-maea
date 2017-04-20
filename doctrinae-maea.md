@@ -149,6 +149,13 @@ A more complicated explanation of AngularJS dependency injection:
 * https://github.com/angular/angular.js/wiki/Understanding-Dependency-Injection
 * file://understanding-ng-di.pdf
 
+##### Immutable.js
+
+An understandable, general discussion of immutable data structures using `Immutable.js`
+
+* https://auth0.com/blog/intro-to-immutable-js/
+* file://intro-to-immutable.pdf
+
 ##### Node.js
 
 How to list globally installed packages:
@@ -221,6 +228,17 @@ Microsoft study on unit testing:
 
 * http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf
 * file://microsoft-tdd-costs.pdf
+
+## Performance
+
+Memory usage of JavaScript UI libraries and frameworks:
+
+* https://auth0.com/blog/more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/
+* file://js-ui-memory-benchmarks.pdf
+
+And a quick link to the results: 
+
+* https://auth0.com/blog/more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link
 
 ## Systems
 
