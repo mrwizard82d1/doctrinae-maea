@@ -46,6 +46,13 @@ How to preview the appearance of GitHub markdown files:
 * http://www.grymoire.com/Unix/Sed.html
 * file://sed-an-introduction-and-tutorial.pdf 
 
+### Webpack
+
+A great explanation of `webpack` (2):
+
+* https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783
+* file://webpack-2-explanation.pdf
+
 ## Design
 
 ### Algorithms
