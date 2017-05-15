@@ -174,6 +174,11 @@ Unit testing ASP.NET Web API (including adding a test project for an existing pr
 * http://www.peterprovost.org/blog/2012/06/16/unit-testing-asp-dot-net-web-api/
 * file://unit-testing-web-api.pdf
 
+Creating "fake" requests / responses:
+
+* http://stackoverflow.com/questions/18098585/moq-mocking-mvc-controllers-response-cookies-clear/18101855#18101855
+* file://moc-mvc-controller-response-cookies.pdf
+
 ##### Async/Await
 
 Preventing deadlocks (by **not** capturing contexts)
@@ -198,6 +203,18 @@ Original post from previous question:
 
 * http://suhinini.blogspot.nl/2009/11/delete-all-msmq-queues-at-some-pc-with.html
 * file://delete-all-nsb-msmqs.pdf
+
+## Powershell
+
+Word count equivalent:
+
+* https://blogs.technet.microsoft.com/heyscriptingguy/2011/10/09/use-a-powershell-cmdlet-to-count-files-words-and-lines/
+* file://ps1-print-dll-versions.pdf
+
+Recursively search directories for dll's reporting their version numbers
+
+* http://stackoverflow.com/questions/3267009/get-file-version-and-assembly-version-of-dll-files-in-the-current-directory-and
+* file://ps1-word-count.pdf
 
 ## Security
 
