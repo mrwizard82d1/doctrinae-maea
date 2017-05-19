@@ -112,6 +112,11 @@ Performance of 'subprocess' options:
 
 #### ClojureScript
 
+JavaScript "equivalents":
+
+* https://kanaka.github.io/clojurescript/web/synonym.html
+* file://js-cljs-equivalents.pdf
+
 ##### Reagent
 
 How to eliminate the warning: "Every element in a seq should have a unique :key."
