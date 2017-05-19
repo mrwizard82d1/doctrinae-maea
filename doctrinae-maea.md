@@ -209,7 +209,17 @@ Original post from previous question:
 * http://suhinini.blogspot.nl/2009/11/delete-all-msmq-queues-at-some-pc-with.html
 * file://delete-all-nsb-msmqs.pdf
 
-## Powershell
+#### Shells
+
+##### Bash
+
+Usage of positional paramenters:
+
+* http://stackoverflow.com/questions/12314451/accessing-bash-command-line-args-vs (Search for "overview table")
+* file://bash-positional-args.pdf
+* http://wiki.bash-hackers.org/scripting/posparams
+
+##### Powershell
 
 Word count equivalent:
 
