@@ -117,6 +117,13 @@ JavaScript "equivalents":
 * https://kanaka.github.io/clojurescript/web/synonym.html
 * file://js-cljs-equivalents.pdf
 
+##### Boot
+
+A starter kit to build ClojureScript applications using Node.js
+
+- https://specious.github.io/blog/2016/12/07/Starting-a-NodeJS-app-with-ClojureScript-and-Boot/
+- file://cljs-nodejs-boot-starter.pdf
+
 ##### Reagent
 
 How to eliminate the warning: "Every element in a seq should have a unique :key."
