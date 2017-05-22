@@ -46,6 +46,13 @@ How to preview the appearance of GitHub markdown files:
 * http://www.grymoire.com/Unix/Sed.html
 * file://sed-an-introduction-and-tutorial.pdf 
 
+### Selenium
+
+The Selenium API documentation:
+
+- https://stackoverflow.com/questions/5644868/webdriver-selenium-2-api-documentation
+- file://selenium-api-docs.pdf
+
 ### Webpack
 
 A great explanation of `webpack` (2):
