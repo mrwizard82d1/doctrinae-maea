@@ -131,6 +131,13 @@ A starter kit to build ClojureScript applications using Node.js
 - https://specious.github.io/blog/2016/12/07/Starting-a-NodeJS-app-with-ClojureScript-and-Boot/
 - file://cljs-nodejs-boot-starter.pdf
 
+##### Om
+
+Eliminating the "Each child in an array or iterator should have a unique key" warning:
+
+- http://www.thesoftwaresimpleton.com/blog/2014/11/06/react-key/ 
+- file://om-unique-keys.pdf
+
 ##### Reagent
 
 How to eliminate the warning: "Every element in a seq should have a unique :key."
