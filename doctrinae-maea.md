@@ -53,6 +53,12 @@ The Selenium API documentation:
 - https://stackoverflow.com/questions/5644868/webdriver-selenium-2-api-documentation
 - file://selenium-api-docs.pdf
 
+### Vim
+
+Replace multiple whitespace with single (throughout file):
+
+- https://stackoverflow.com/questions/3860532/vim-regex-replace-multiple-consecutive-spaces-with-only-one-space
+- file://vim-many-ws-to-one.pdf
 ### Webpack
 
 A great explanation of `webpack` (2):
