@@ -53,6 +53,13 @@ The Selenium API documentation:
 - https://stackoverflow.com/questions/5644868/webdriver-selenium-2-api-documentation
 - file://selenium-api-docs.pdf
 
+### Tmux
+
+How to use tmux in Cmder on windows (using cywin)
+
+- https://github.com/cmderdev/cmder/issues/453 
+- file://tmux-in-cygwin-cmder.pdf
+
 ### Vim
 
 Replace multiple whitespace with single (throughout file):
