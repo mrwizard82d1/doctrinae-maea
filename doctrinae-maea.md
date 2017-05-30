@@ -60,6 +60,11 @@ How to use tmux in Cmder on windows (using cywin)
 - https://github.com/cmderdev/cmder/issues/453 
 - file://tmux-in-cygwin-cmder.pdf
 
+Examples of standard pane layouts:
+
+- http://lgfang.github.io/mynotes/utils/tmux-intro.html#sec-5-5
+- file://tmux-std-pane-layouts.pdf
+
 ### Vim
 
 Replace multiple whitespace with single (throughout file):
