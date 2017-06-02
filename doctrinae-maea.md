@@ -212,6 +212,13 @@ How to list globally installed packages:
 * https://ponderingdeveloper.com/2013/09/03/listing-globally-installed-npm-packages-and-version/
 * file://list-global-npm-packages.pdf
 
+##### React
+
+A detailed, tongue-in-cheek explanation of React Life Cycle methods
+
+- https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
+- file://react-lifecycle-how-and-why.pdf
+
 #### .NET
 
 ##### ASP.Net
