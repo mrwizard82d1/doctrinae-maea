@@ -65,6 +65,11 @@ Examples of standard pane layouts:
 - http://lgfang.github.io/mynotes/utils/tmux-intro.html#sec-5-5
 - file://tmux-std-pane-layouts.pdf
 
+Copying tmux buffers
+
+- https://awhan.wordpress.com/2010/06/20/copy-paste-in-tmux/
+- file://copy-paste-in-tmux.pdf
+
 ### Vim
 
 Replace multiple whitespace with single (throughout file):
