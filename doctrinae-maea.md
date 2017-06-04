@@ -219,6 +219,16 @@ A detailed, tongue-in-cheek explanation of React Life Cycle methods
 - https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
 - file://react-lifecycle-how-and-why.pdf
 
+React *elements* and *components*
+
+- https://tylermcginnis.com/react-elements-vs-react-components/
+- file://react-elements-v-components.pdf
+
+A more pendantic take on elements and components:
+
+- https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html
+- file://react-components-elements-instances.pdf
+
 #### .NET
 
 ##### ASP.Net
