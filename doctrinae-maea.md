@@ -39,6 +39,15 @@ How to preview the appearance of GitHub markdown files:
 * https://github.com/joeyespo/grip
 * file://grip-github-preview.pdf
 
+### JetBrains
+
+#### WebStorm
+
+If .eslint rules specify windows line endings, WebStorm *always* report an error:
+
+- https://youtrack.jetbrains.com/issue/WEB-25487
+- file://webstorm-eslint-always-crlf-error.pdf
+
 ### Sed
 
 **The** guide to sed
