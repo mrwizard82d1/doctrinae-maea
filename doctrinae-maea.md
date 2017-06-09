@@ -238,6 +238,11 @@ A more pendantic take on elements and components:
 - https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html
 - file://react-components-elements-instances.pdf
 
+An "architecture" for unit testing connected components:
+
+- https://medium.com/@caljrimmer/simple-react-redux-testing-cd579d4c2103
+- file://react-redux-testing.pdf
+
 #### .NET
 
 ##### ASP.Net
