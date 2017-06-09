@@ -243,6 +243,11 @@ An "architecture" for unit testing connected components:
 - https://medium.com/@caljrimmer/simple-react-redux-testing-cd579d4c2103
 - file://react-redux-testing.pdf
 
+Resources for testing React-Redux:
+
+- https://github.com/markerikson/react-redux-links/blob/master/react-redux-testing.md 
+- file://react-redux-testing-resources.pdf
+
 #### .NET
 
 ##### ASP.Net
