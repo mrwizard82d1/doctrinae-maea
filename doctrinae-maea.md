@@ -221,6 +221,11 @@ A great tutorial: first create a React app then transform it to a Redux app usin
 
 ##### Node.js
 
+Running rode inside `rlwrap`:
+
+- https://nodejs.org/api/repl.html
+- save://file:node-repl.pdf
+
 How to list globally installed packages:
 
 * https://ponderingdeveloper.com/2013/09/03/listing-globally-installed-npm-packages-and-version/
