@@ -214,6 +214,11 @@ An understandable, general discussion of immutable data structures using `Immuta
 * https://auth0.com/blog/intro-to-immutable-js/
 * file://intro-to-immutable.pdf
 
+A great tutorial: first create a React app then transform it to a Redux app using Immutable:
+
+- https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
+- file://react-redux-immutable.js
+
 ##### Node.js
 
 How to list globally installed packages:
