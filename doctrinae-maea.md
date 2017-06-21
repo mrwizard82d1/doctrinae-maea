@@ -258,6 +258,11 @@ Resources for testing React-Redux:
 - https://github.com/markerikson/react-redux-links/blob/master/react-redux-testing.md 
 - file://react-redux-testing-resources.pdf
 
+Mocking `fetch` using `jest`:
+
+- https://medium.com/@ferrannp/unit-testing-with-jest-redux-async-actions-fetch-9054ca28cdcd
+- file://mock-fetch-using-jest.pdf
+
 #### .NET
 
 ##### ASP.Net
