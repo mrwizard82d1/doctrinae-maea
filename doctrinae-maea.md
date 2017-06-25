@@ -268,6 +268,13 @@ Designing a React UI:
 - https://facebook.github.io/react/docs/thinking-in-react.html
 - file://thinking-in-react.pdf
 
+Optimizing React (Avoiding Reconciliation)
+
+- https://facebook.github.io/react/docs/optimizing-performance.html
+- file://optimize-react-performance.pdf
+
+- https://facebook.github.io/react/docs/optimizing-performance.html#avoid-reconciliation
+
 #### .NET
 
 ##### ASP.Net
