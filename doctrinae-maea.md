@@ -263,6 +263,11 @@ Mocking `fetch` using `jest`:
 - https://medium.com/@ferrannp/unit-testing-with-jest-redux-async-actions-fetch-9054ca28cdcd
 - file://mock-fetch-using-jest.pdf
 
+Designing a React UI:
+
+- https://facebook.github.io/react/docs/thinking-in-react.html
+- file://thinking-in-react.pdf
+
 #### .NET
 
 ##### ASP.Net
