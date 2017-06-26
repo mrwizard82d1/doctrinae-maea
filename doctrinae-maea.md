@@ -275,6 +275,12 @@ Optimizing React (Avoiding Reconciliation)
 
 - https://facebook.github.io/react/docs/optimizing-performance.html#avoid-reconciliation
 
+React routing tutorial:
+
+- https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf;
+- file://react-router-v4-tutorial.pdf
+
+
 #### .NET
 
 ##### ASP.Net
