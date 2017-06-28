@@ -32,6 +32,11 @@ How to use `git bisect`:
 - http://www.marclittlemore.com/posts/how-to-find-bugs-using-git-bisect-with-this-easy-guide/
 - file://h2-use-git-bisect.pdf
 
+How to clean up stale branches:
+
+- http://railsware.com/blog/2014/08/11/git-housekeeping-tutorial-clean-up-outdated-branches-in-local-and-remote-repositories/ 
+- file://git-clean-outdated.pdf
+
 ### GitHub
 
 How to preview the appearance of GitHub markdown files:
