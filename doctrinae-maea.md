@@ -285,6 +285,11 @@ React routing tutorial:
 - https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf;
 - file://react-router-v4-tutorial.pdf
 
+A *better* example of React router version 4:
+
+- https://gist.github.com/siakaramalegos/df4620c52e829f6107c75d5c3f0ad7f5
+- file://react-router-v4-gist.js
+
 
 #### .NET
 
