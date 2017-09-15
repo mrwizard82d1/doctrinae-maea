@@ -161,6 +161,11 @@ JavaScript "equivalents":
 * https://kanaka.github.io/clojurescript/web/synonym.html
 * file://js-cljs-equivalents.pdf
 
+ClojureScript on Node with Channels:
+
+- https://keminglabs.com/blog/tech-of-clear-commit/
+- file://cljs-node-and-channels.pdf
+
 ##### Boot
 
 A starter kit to build ClojureScript applications using Node.js
@@ -223,6 +228,14 @@ A great tutorial: first create a React app then transform it to a Redux app usin
 
 - https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
 - file://react-redux-immutable.js
+
+##### Knockout.js
+
+Getting the value of an observable:
+
+- https://stackoverflow.com/questions/36223873/is-there-anyway-to-inspect-knockout-observables-using-chrome-debugger
+- file://ko-observable-value.pdf
+
 
 ##### Node.js
 
@@ -290,6 +303,15 @@ A *better* example of React router version 4:
 - https://gist.github.com/siakaramalegos/df4620c52e829f6107c75d5c3f0ad7f5
 - file://react-router-v4-gist.js
 
+A FAQ on React state:
+
+- https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c
+- file://state-in-react.pdf
+
+Changing React state from input element
+
+- https://thinkster.io/tutorials/react-change-state-from-input
+- file://change-react-state-from-input.pdf
 
 #### .NET
 
