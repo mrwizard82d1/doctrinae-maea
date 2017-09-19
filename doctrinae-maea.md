@@ -37,6 +37,11 @@ How to clean up stale branches:
 - http://railsware.com/blog/2014/08/11/git-housekeeping-tutorial-clean-up-outdated-branches-in-local-and-remote-repositories/ 
 - file://git-clean-outdated.pdf
 
+Explanation of ours and theirs in merge and rebase:
+
+- https://stackoverflow.com/questions/25576415/what-is-the-precise-meaning-of-ours-and-theirs-in-git
+- file://git-merge-rebase-ours-theirs.pdf
+
 ### GitHub
 
 How to preview the appearance of GitHub markdown files:
@@ -328,6 +333,11 @@ Creating "fake" requests / responses:
 
 * http://stackoverflow.com/questions/18098585/moq-mocking-mvc-controllers-response-cookies-clear/18101855#18101855
 * file://moc-mvc-controller-response-cookies.pdf
+
+The meaning of various Uri properties:
+
+- https://www.cambiaresearch.com/articles/53/how-do-i-get-paths-and-url-fragments-from-the-httprequest-object
+- file://uri-paths-and-fragments.pdf
 
 ##### Async/Await
 
