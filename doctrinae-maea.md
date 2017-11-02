@@ -318,6 +318,11 @@ Changing React state from input element
 - https://thinkster.io/tutorials/react-change-state-from-input
 - file://change-react-state-from-input.pdf
 
+A step-by-step guide to building react-redux apps
+
+- https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a 
+- file://step-by-step-react-redux.pdf
+
 #### .NET
 
 ##### ASP.Net
@@ -434,6 +439,11 @@ And a quick link to the results:
 How to run a program as a different user?
 
 * `C:\Windows\System32\runas.exe /netonly /user:nobrainer2\willk "C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\Ssms.exe"`
+
+Uninstalling stubborn applications;
+
+- https://www.mssqltips.com/sqlservertip/4050/cleanly-uninstalling-stubborn-sql-server-components/
+- file://cleanly-uninstall-stubborn-components.pdf
 
 ### Parallels
 
