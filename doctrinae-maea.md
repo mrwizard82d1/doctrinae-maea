@@ -171,6 +171,11 @@ ClojureScript on Node with Channels:
 - https://keminglabs.com/blog/tech-of-clear-commit/
 - file://cljs-node-and-channels.pdf
 
+TDD in ClojureScript:
+
+- https://8thlight.com/blog/eric-smith/2016/10/05/a-testable-clojurescript-setup.html
+- file://tdd-in-cljs.pdf
+
 ##### Boot
 
 A starter kit to build ClojureScript applications using Node.js
