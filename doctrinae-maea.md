@@ -374,6 +374,10 @@ Original post from previous question:
 * http://suhinini.blogspot.nl/2009/11/delete-all-msmq-queues-at-some-pc-with.html
 * file://delete-all-nsb-msmqs.pdf
 
+##### Metrics (Java but ported to .NET)
+
+- http://codahale.com/codeconf-2011-04-09-metrics-metrics-everywhere.pdf 
+
 #### Shells
 
 ##### Bash
