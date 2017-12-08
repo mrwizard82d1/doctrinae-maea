@@ -129,6 +129,11 @@ What is the reason for Clojure distinguishing between vars and symbols?
 - http://stackoverflow.com/questions/11662084/why-does-clojure-distinguish-between-symbols-and-vars
 - file://clj-why-vars-and-symbols.pdf
 
+Beating the averages: A contrarian take on language selection
+
+- http://www.paulgraham.com/avg.html
+- file://beating-the-averages.html
+
 #### IronPython
 
 Using IronPython to access Microsoft SQL Server (using SMO)
