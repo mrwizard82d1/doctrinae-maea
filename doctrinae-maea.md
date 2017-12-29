@@ -14,7 +14,7 @@ Here's my process for automating (RESTful?) web requests
 * Select "Copy > As curs (bash)"
 * Paste curl script into shell script
 * Navigate to https://curl.trillworks.com/#python in another browser
-* Paste curs script into "curl command" text box
+* Paste curl script into "curl command" text box
 * Python script is automatically generated in the "Python requests" text box
 * Copy text from "Python requests" box into Python file
 * Change language to "Node.js"
@@ -434,6 +434,11 @@ Microsoft study on unit testing:
 
 * http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf
 * file://microsoft-tdd-costs.pdf
+
+## NoSQL database comparison
+
+- http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis 
+- file://nosql-db-comparison.pdf
 
 ## Performance
 
