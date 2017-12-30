@@ -458,6 +458,11 @@ Error messages on web pages:
 * https://conversionxl.com/blog/error-messages/
 * file://web-page-error-message-mistakes.pdf
 
+Notifications (toast):
+
+* https://ux.stackexchange.com/questions/11203/how-long-should-a-temporary-notification-toast-appear
+* file://how-long-notifications.pdf
+
 ## Systems
 
 ### Windows
