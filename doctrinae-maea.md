@@ -58,6 +58,16 @@ If .eslint rules specify windows line endings, WebStorm *always* report an error
 - https://youtrack.jetbrains.com/issue/WEB-25487
 - file://webstorm-eslint-always-crlf-error.pdf
 
+Electron in WebStorm:
+
+- https://blog.jetbrains.com/webstorm/2016/05/getting-started-with-electron-in-webstorm/
+- file://electron-in-webstorm.pdf
+
+Debugging Electron Apps:
+
+- https://blog.jetbrains.com/webstorm/2016/05/getting-started-with-electron-in-webstorm/
+- file://electron-in-webstorm.pdf
+
 ### Sed
 
 **The** guide to sed
