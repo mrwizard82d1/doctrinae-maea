@@ -498,3 +498,10 @@ Configure display settings on Retina
 * http://blog.parallels.com/2015/08/18/how-to-configure-the-best-display-settings-for-parallels-desktop-on-a-retina-mac/
 * file://configure_display_parallels.pdf
 
+### Mac OS X
+
+Quickly show hidden files in Finder:
+
+- https://osxdaily.com/2011/03/01/show-hidden-files-in-mac-os-x-dialog-boxes-with-commandshiftperiod/ 
+- file://hidden-files-in-finder.pdf
+
