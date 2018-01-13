@@ -172,6 +172,15 @@ Performance of 'subprocess' options:
 * http://stackoverflow.com/questions/25333537/performance-of-subprocess-check-output-vs-subprocess-call
 * file://python-subprocess-performance.pdf
 
+#### Ruby
+
+##### Rbenv
+
+Simple steps to installing `rbenv`:
+
+- http://www.codementor.io/akabiru/3-steps-set-up-ruby-environment-macos-6mavm7jrl
+- file://rbenv-macos-3-steps.pdf
+
 ### Libs
 
 #### ClojureScript
