@@ -20,6 +20,14 @@ Here's my process for automating (RESTful?) web requests
 * Change language to "Node.js"
 * Copy text from "Node.js" text box into JavaScript file
 
+#### Postman
+
+Restoring a maximized Postman window that one cannot restore. (Search
+for "reset the app's window settings manually"):
+
+- https://github.com/postmanlabs/postman-app-support/issues/2992
+- file://postman-window-issues.pdf
+
 ### Git
 
 How to move a local repository into GitHub?
