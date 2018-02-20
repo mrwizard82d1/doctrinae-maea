@@ -271,6 +271,13 @@ A great tutorial: first create a React app then transform it to a Redux app usin
 - https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
 - file://react-redux-immutable.js
 
+##### Jest
+
+Mocking window properties in Jest:
+
+- https://stackoverflow.com/questions/40449434/mocking-globals-in-jest 
+- file://mocking-globals-in-jest.pdf
+
 ##### Knockout.js
 
 Getting the value of an observable:
