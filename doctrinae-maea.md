@@ -152,6 +152,12 @@ Beating the averages: A contrarian take on language selection
 - http://www.paulgraham.com/avg.html
 - file://beating-the-averages.html
 
+##### Leiningen
+
+Use the `localrepo` plugin to create "fake," local repository entries
+
+- https://github.com/kumarshantanu/lein-localrepo
+
 #### IronPython
 
 Using IronPython to access Microsoft SQL Server (using SMO)
