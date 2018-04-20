@@ -425,6 +425,13 @@ Original post from previous question:
 
 #### Shells
 
+##### Babun
+
+Error 127 running tmux (caused by upgrade to 64-bit Cygwin?)
+
+* https://github.com/babun/babun/issues/720
+* file://tmux-not-working-127.pdf
+
 ##### Bash
 
 Usage of positional paramenters:
