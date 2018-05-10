@@ -50,6 +50,11 @@ Explanation of ours and theirs in merge and rebase:
 - https://stackoverflow.com/questions/25576415/what-is-the-precise-meaning-of-ours-and-theirs-in-git
 - file://git-merge-rebase-ours-theirs.pdf
 
+Merging specific files only from one branch to another:
+
+- http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/
+- file://merge-specific-files-between-branches.pdf
+
 ### GitHub
 
 How to preview the appearance of GitHub markdown files:
