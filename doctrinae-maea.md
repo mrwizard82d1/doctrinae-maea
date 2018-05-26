@@ -157,6 +157,13 @@ Beating the averages: A contrarian take on language selection
 - http://www.paulgraham.com/avg.html
 - file://beating-the-averages.html
 
+##### Elixir
+
+Enable shell history in iex
+
+- https://til.hashrocket.com/posts/is9yfvhdnp-enable-history-in-iex-through-erlang-otp-20- 
+- file://enable-iex-history.pdf
+
 ##### Leiningen
 
 Use the `localrepo` plugin to create "fake," local repository entries
