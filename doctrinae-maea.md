@@ -2,6 +2,17 @@
 
 What I learned (on the Mac). I need to combine this information into my DoctrinaeMaea wikidpad (only available on Windows).
 
+## Design
+
+### Algorithms
+
+#### Search
+
+Comparison of ternary, binary and Fibonacci search:
+
+* http://www.cs.utsa.edu/~wagner/CS3343/binsearchtest/search.html
+* file://compare-binary-ternary-fibonacci-search.pdf
+
 ## Dev Tools
 
 ### Automating web requests
@@ -20,13 +31,12 @@ Here's my process for automating (RESTful?) web requests
 * Change language to "Node.js"
 * Copy text from "Node.js" text box into JavaScript file
 
-#### Postman
+### Docker
 
-Restoring a maximized Postman window that one cannot restore. (Search
-for "reset the app's window settings manually"):
+(Powershell) script to completely uninstall Docker on Windows (10):
 
-- https://github.com/postmanlabs/postman-app-support/issues/2992
-- file://postman-window-issues.pdf
+- https://success.docker.com/article/how-to-completely-remove-docker-in-windows-10
+- file://clean-docker-windows-10.pdf
 
 ### Git
 
@@ -81,6 +91,14 @@ Debugging Electron Apps:
 - https://blog.jetbrains.com/webstorm/2016/05/getting-started-with-electron-in-webstorm/
 - file://electron-in-webstorm.pdf
 
+### Postman
+
+Restoring a maximized Postman window that one cannot restore. (Search
+for "reset the app's window settings manually"):
+
+- https://github.com/postmanlabs/postman-app-support/issues/2992
+- file://postman-window-issues.pdf
+
 ### Sed
 
 **The** guide to sed
@@ -118,23 +136,13 @@ Replace multiple whitespace with single (throughout file):
 
 - https://stackoverflow.com/questions/3860532/vim-regex-replace-multiple-consecutive-spaces-with-only-one-space
 - file://vim-many-ws-to-one.pdf
+
 ### Webpack
 
 A great explanation of `webpack` (2):
 
 * https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783
 * file://webpack-2-explanation.pdf
-
-## Design
-
-### Algorithms
-
-#### Search
-
-Comparison of ternary, binary and Fibonacci search:
-
-* http://www.cs.utsa.edu/~wagner/CS3343/binsearchtest/search.html
-* file://compare-binary-ternary-fibonacci-search.pdf
 
 ## Software
 
