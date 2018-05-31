@@ -171,6 +171,7 @@ Enable shell history in iex
 
 - https://til.hashrocket.com/posts/is9yfvhdnp-enable-history-in-iex-through-erlang-otp-20- 
 - file://enable-iex-history.pdf
+- The answer: `export ERL_AFLAGS="-kernel shell_history enabled"`
 
 ##### Leiningen
 
