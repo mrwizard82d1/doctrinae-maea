@@ -435,6 +435,10 @@ Preventing deadlocks (by **not** capturing contexts)
 - http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 - file://dont-block-on-async.pdf
 
+##### Metrics (Java but ported to .NET)
+
+- http://codahale.com/codeconf-2011-04-09-metrics-metrics-everywhere.pdf 
+
 ##### Moq
 
 Mocking `async` functions:
@@ -453,9 +457,12 @@ Original post from previous question:
 * http://suhinini.blogspot.nl/2009/11/delete-all-msmq-queues-at-some-pc-with.html
 * file://delete-all-nsb-msmqs.pdf
 
-##### Metrics (Java but ported to .NET)
+##### Rx.NET
 
-- http://codahale.com/codeconf-2011-04-09-metrics-metrics-everywhere.pdf 
+The difference between ObserveOn and SubscribeOn: where is the work done
+
+- https://stackoverflow.com/questions/20451939/observeon-and-subscribeon-where-the-work-is-being-done
+- file://observe-on-subscribe-on-csharp.pdf
 
 #### Shells
 
