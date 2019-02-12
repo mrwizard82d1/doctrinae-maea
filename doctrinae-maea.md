@@ -173,6 +173,19 @@ Enable shell history in iex
 - file://enable-iex-history.pdf
 - The answer: `export ERL_AFLAGS="-kernel shell_history enabled"`
 
+##### Fsharp
+
+Building a web app with a REST API using MongoDB:
+
+- https://medium.com/@leocavalcante/rest-api-with-mongodb-and-f-on-net-core-605a2336f264
+- file://rest-api-mongo-db-fsharp.pdf
+
+Overview of F# asynchronous workflows:
+
+- https://fsharpforfunandprofit.com/posts/concurrency-async-and-parallel/
+- file://async-workflows-overview
+
+
 ##### Leiningen
 
 Use the `localrepo` plugin to create "fake," local repository entries
