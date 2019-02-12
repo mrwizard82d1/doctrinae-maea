@@ -1,0 +1,6 @@
+= Fsharp (F#) =
+
+Creating a RESTful API using F# and MongoDB
+
+- https://medium.com/@leocavalcante/rest-api-with-mongodb-and-f-on-net-core-605a2336f264
+- file://rest-api-mongo-db-fsharp.pdf
