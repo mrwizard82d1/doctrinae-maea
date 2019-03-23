@@ -464,6 +464,10 @@ The difference between ObserveOn and SubscribeOn: where is the work done
 - https://stackoverflow.com/questions/20451939/observeon-and-subscribeon-where-the-work-is-being-done
 - file://observe-on-subscribe-on-csharp.pdf
 
+##### TickSpec
+
+[TickSpec](./Software/Libs/DotNet/TickSpec.md)
+
 #### Shells
 
 ##### Babun
