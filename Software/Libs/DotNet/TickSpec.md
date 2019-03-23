@@ -2,11 +2,6 @@
 
 A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit how you want to test. (https://github.com/fsprojects/TickSpec)
 
-## Contents
-
-* [Create a project](#how-to-create-a-specification-project)
-* [Trouble shooting](#trouble-shooting)
-
 ## How to create a specification project
 
 1. Create an F# class library project.
@@ -15,7 +10,7 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
   - NUnit3TestAdapter
   - FsUnit
   - TickSpec (**Note**: a .NET framework class library *requires* version 2.0.0-rc1 or later)
-3. Add a `App.config` file to the project. Change the properties of the file to copy it to the output directory when built ![App.config Properties](./TickSpec-AppConfig-Properties.png).
+3. Add a `App.config` file to the project. Change the properties of the file to be like ![these](./TickSpec-AppConfig-Properties.png).
 4. Edit `App.config` to redirect bindings to `FSharp.Core` using the following section.
   ```
     <runtime>
@@ -31,7 +26,7 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 
   ```
 4. Add .feature file specifying the feature, for example, ``Accounts.feature``.
-5. Change the properties of the feature file to be an embedded resource as follows ![Feature File Properties](./TickSpec-FeatureFile-Properties.png).
+5. Change the properties of the fuature file to be like these properties, ![Feature File Properties](./TickSpec-FeatureFile-Properties.png).
 6. Write the specification for the feature in ``Accounts.feature``.
 7. Copy the [`NUnit` feature fixture file](https://github.com/fsprojects/TickSpec/blob/master/Examples/ByFramework/NUnit/FSharp.NUnit/FeatureFixture.fs) into the project.
 8. Create a "Steps" file, for example, ``AccountsSteps.fs``.
@@ -43,10 +38,6 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 
 ## Trouble shooting
 
-* If you created the `App.config` file, but you still see errors finding `FSharp.Core`, 
-  * Ensure that the properties of the file copy it to the output directory
-  * Ensure that the binding redirect uses a **neutral** culture and not a specific culture.
-* If tests pass **without** creating an tests, check that the `.feature` file is an embedded resource.
 
 
 
