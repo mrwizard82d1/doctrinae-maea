@@ -7,7 +7,7 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 1. Create an F# class library project.
 2. Add the packages to the newly created project:
   - NUnit
-  - NUnitTestAdapter
+  - NUnit3TestAdapter
   - FsUnit
   - TickSpec
 2. Add .feature file specifying the feature, for example, ``Accounts.feature``.
