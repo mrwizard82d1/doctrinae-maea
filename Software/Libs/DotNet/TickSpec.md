@@ -2,6 +2,11 @@
 
 A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit how you want to test. (https://github.com/fsprojects/TickSpec)
 
+## Contents
+
+* [Create a project](#How-to-create-a-specification-project)
+* [Trouble shooting](#Trouble-shooting)
+
 ## How to create a specification project
 
 1. Create an F# class library project.
