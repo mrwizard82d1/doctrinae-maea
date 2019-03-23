@@ -11,19 +11,20 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
   - FsUnit
   - TickSpec (**Note**: a .NET framework class library *requires* version 2.0.0-rc1 or later)
 3. Add a `App.config` file to the project. Change the properties of the file to be like ![these](./TickSpec-AppConfig-Properties.png).
-4. Edit `App.config` to redirect bindings to `FSharp.Core` using the following section.
+4. Edit `App.config` to include the following binding redirects for `FSharp.Core`.
   ```
+<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
     <runtime>
         <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
             <dependentAssembly>
-                <assemblyIdentity name="FSharp.Core"
-                                  publicKeyToken="b03f5f7f11d50a3a"
-                                  culture="en-us" />
+                <assemblyIdentity name="FSharp.Core" publicKeyToken="b03f5f7f11d50a3a" culture="neutral" />
                 <bindingRedirect oldVersion="0.0.0.0-4.5.0.0" newVersion="4.5.0.0" />
             </dependentAssembly>
         </assemblyBinding>
     </runtime>
-
+</configuration>
   ```
 3. Add .feature file specifying the feature, for example, ``Accounts.feature``.
 4. Write the specification for the feature in ``Accounts.feature``.
