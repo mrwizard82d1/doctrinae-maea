@@ -10,7 +10,7 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
   - NUnit3TestAdapter
   - FsUnit
   - TickSpec (**Note**: a .NET framework class library *requires* version 2.0.0-rc1 or later)
-3. Add a `App.config` file to the project. Change the properties of the file to be like ![these](./TickSpec-AppConfig-Properties.png).
+3. Add a `App.config` file to the project. Change the properties of the file to be like this image, ![App.config properties](./TickSpec-AppConfig-Properties.png)
 4. Edit `App.config` to redirect bindings to `FSharp.Core` using the following section.
   ```
     <runtime>
