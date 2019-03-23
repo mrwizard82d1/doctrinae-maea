@@ -4,8 +4,8 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 
 ## Contents
 
-* [Create a project](#How-to-create-a-specification-project)
-* [Trouble shooting](#Trouble-shooting)
+* [Create a project](#how-to-create-a-specification-project)
+* [Trouble shooting](#trouble-shooting)
 
 ## How to create a specification project
 
