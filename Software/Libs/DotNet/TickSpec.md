@@ -38,6 +38,10 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 
 ## Trouble shooting
 
+* If you created the `App.config` file, but you still see errors finding `FSharp.Core`, 
+  * Ensure that the properties of the file copy it to the output directory
+  * Ensure that the binding redirect uses a **neutral** culture and not a specific culture.
+* If tests pass **without** creating an tests, check that the `.feature` file is an embedded resource.
 
 
 
