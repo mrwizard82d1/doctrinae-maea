@@ -38,6 +38,11 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 
 ## Trouble shooting
 
+- If running a test reports a missing step definition
+  - Ensure that a step definition is a _regular expression_
+  - Ensure that each parameter in the step definition is a _regular expression group_ (enclosed in parentheses)
+  - Ensure that the step definition has a parameter for each regular expression group
+  - Ensure that all changes to your step definition file have been *saved* before compiling / running the steps
 
 
 
