@@ -1,4 +1,4 @@
 # Table of Contents
 
-* [Langs](./Langs/)
+* [Languages](./Languages/)
 * [Libs](./Libs/)
