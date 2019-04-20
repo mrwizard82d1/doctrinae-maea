@@ -1,0 +1,1 @@
+[RESTful Web API Versioning Made Easy](https://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx)
