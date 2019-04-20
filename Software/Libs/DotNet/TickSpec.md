@@ -39,7 +39,7 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 ## Trouble shooting
 
 * If running tests does not "see" your feature file
-  Ensure that the feature file is an embedded resources that is always copied.
+  * Ensure that the feature file is an embedded resources that is always copied.
 
 
 
