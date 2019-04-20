@@ -26,7 +26,7 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 
   ```
 4. Add .feature file specifying the feature, for example, ``Accounts.feature``.
-5. Change the properties of the fuature file to be like these properties, ![Feature File Properties](./TickSpec-FeatureFile-Properties.png).
+5. Change the properties of the feature file to be like these properties, ![Feature File Properties](./TickSpec-FeatureFile-Properties.png).
 6. Write the specification for the feature in ``Accounts.feature``.
 7. Copy the [`NUnit` feature fixture file](https://github.com/fsprojects/TickSpec/blob/master/Examples/ByFramework/NUnit/FSharp.NUnit/FeatureFixture.fs) into the project.
 8. Create a "Steps" file, for example, ``AccountsSteps.fs``.
@@ -37,6 +37,10 @@ A lightweight Behaviour Driven Development (BDD) framework for .NET that'll fit 
 13. Hopefully your tests pass, but better if they do not. :)
 
 ## Trouble shooting
+
+| If you have the issue | Then try |
+| --------------------- | -------- |
+| Feature file not detected | Ensure the feature file is always copied as an embedded resource |
 
 
 
