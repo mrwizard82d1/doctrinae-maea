@@ -1,0 +1,1 @@
+* [Best practices for retrieving objects from relational databases](http://www.agiledata.org/essays/findingObjects.html)
