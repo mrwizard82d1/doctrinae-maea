@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [ASP.NET Core](./AspDotNetCore)
 * [CLR](./CLR)
-* [TickSpec](./TickSpec)
 * [Newtonsoft.Json](./Newtonsoft.Json)
+* [TickSpec](./TickSpec)
