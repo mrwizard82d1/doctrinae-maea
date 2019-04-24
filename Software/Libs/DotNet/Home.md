@@ -2,5 +2,5 @@
 
 * [ASP.NET Core](./AspDotNetCore)
 * [CLR](./CLR)
-* [Newtonsoft](./Newtonsoft.Json)
+* [Newtonsoft.Json](./NewtonsoftJson)
 * [TickSpec](./TickSpec)
