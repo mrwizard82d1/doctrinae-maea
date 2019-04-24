@@ -1,2 +1,3 @@
 - [Deserialization Without Default Constructor](https://stackoverflow.com/questions/23017716/json-net-how-to-deserialize-without-using-the-default-constructor)
+- [Deserialize Dictionary with Comparer](https://stackoverflow.com/questions/46413406/deserialize-json-dictionary-with-stringcomparer)
 - [JObject.Parse versus JsonConvert.DeserializeObject](https://stackoverflow.com/questions/23645034/jobject-parse-vs-jsonconvert-deserializeobject)
