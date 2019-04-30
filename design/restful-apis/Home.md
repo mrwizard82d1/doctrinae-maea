@@ -1,1 +1,2 @@
-* [Versioning a RESTful API](https://www.baeldung.com/rest-versioning)
+- [Evolving HTTP APIs](https://www.mnot.net/blog/2012/12/04/api-evolution)
+- [Versioning a RESTful API](https://www.baeldung.com/rest-versioning)
