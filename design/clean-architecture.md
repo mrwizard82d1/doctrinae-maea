@@ -1,0 +1,1 @@
+- [Implementing Clean Architecture](http://www.plainionist.net/Implementing-Clean-Architecture/) is the first in a set of blog posts on implementing Robert Martin's "Clean Architecture."
