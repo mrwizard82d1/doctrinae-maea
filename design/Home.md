@@ -1,4 +1,5 @@
 # Table of Contents
 
-* [Object-Relational Mapping](./orm/)
-* [RESTful APIs](./restful-apis/)
+- [Clean Architecture](./clean-architecture)
+- [Object-Relational Mapping](./orm/)
+- [RESTful APIs](./restful-apis/)
