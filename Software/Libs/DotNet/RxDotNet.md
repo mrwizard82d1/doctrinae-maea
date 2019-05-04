@@ -1,7 +1,5 @@
 - [Intro to Rx - Scheduling and Threading](http://introtorx.com/Content/v1.0.10621.0/15_SchedulingAndThreading.html#SchedulingAndThreading)
-
 - [ObserveOn and SubscribeOn - Where the Work is Being Done](https://stackoverflow.com/questions/20451939/observeon-and-subscribeon-where-the-work-is-being-done)
 - [What's the difference between SubscribeOn and ObserveOn](https://stackoverflow.com/questions/7579237/whats-the-difference-between-subscribeon-and-observeon)
-
-
 - [Observable.Async versus Task.ToObservable](https://stackoverflow.com/questions/34931053/observable-fromasync-vs-task-toobservable)
+- [Rx and Async NUnit Test](https://stackoverflow.com/questions/22634195/rx-and-async-nunit-test)
