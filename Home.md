@@ -2,5 +2,5 @@
 
 - [Design](./design/)
 - [Original Doctrinae Maea file](./doctrinae-maea)
-- [Software](./software/)
-- [Whitepapers](./whitepapers/)
+- [Software](./Software/)
+- [Whitepapers](./Whitepapers/)
