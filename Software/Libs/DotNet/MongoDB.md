@@ -6,3 +6,4 @@
   Retrieving documents. (Search for LINQ to see a fluent way to query.)
 - [Working with MongoDB in .NET - Part 3](https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-part-3-skip-sort-limit-and-projections-oqfwncyka)
   Skip, sort, limit and projections
+- [Detailed series of MongoDB with .NET](https://dotnetcodr.com/data-storage/)
