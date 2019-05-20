@@ -1,4 +1,5 @@
 # Table of Contents
 
 - [F#](./FSharp/)
-- [IronPython](./IronPython/) 
+- [IronPython](./IronPython/)
+- [Python](./Python/)
