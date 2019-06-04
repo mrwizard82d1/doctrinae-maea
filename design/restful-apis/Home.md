@@ -1,3 +1,4 @@
 - [Evolving HTTP APIs](https://www.mnot.net/blog/2012/12/04/api-evolution)
 - [REST APIs must be hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+- [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) A description of this model by Martin Fowler. Clear. Presents model useful for iterating over a RESTful design.
 - [Versioning a RESTful API](https://www.baeldung.com/rest-versioning)
