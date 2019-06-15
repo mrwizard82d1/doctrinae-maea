@@ -2,6 +2,7 @@
 
 - [Akka.NET](./AkkaDotNet)
 - [ASP.NET Core](./AspDotNetCore)
+- [Azure EventHubs](./AzureEventHubs)
 - [BCL](./BCL)
 - [MongoDB](./MongoDB)
 - [Moq](./Moq)
