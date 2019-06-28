@@ -1,3 +1,4 @@
 # Table of Contents
 
-* [.NET](./DotNet/)
+- [.NET](./DotNet/)
+- [Python](./Python/)
