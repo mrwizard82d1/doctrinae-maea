@@ -3,7 +3,7 @@
 - [Akka.NET](./AkkaDotNet)
 - [ASP.NET Core](./AspDotNetCore)
 - [Azure EventHubs](./AzureEventHubs)
-- [Azure AutomatedTesting](./AzureAutomatedTesting)
+- [Azure Automated Testing](./AzureAutomatedTesting)
 - [BCL](./BCL)
 - [MongoDB](./MongoDB)
 - [Moq](./Moq)
