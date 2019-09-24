@@ -8,6 +8,7 @@
     - [Asynchronous Programming](https://docs.microsoft.com/en-us/dotnet/csharp/async)
     - [Asynchronous programming with async and await (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/index)
     - [Async in depth](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth)
+    - [Fine-tuning your Async Application (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/fine-tuning-your-async-application)<br/>Describes how to correctly *cancel* an asynchronous operation.
     - [Task asynchronous programming model](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model)
     - [Async Return Types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
     - [Exceptions in async methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
