@@ -1,3 +1,3 @@
 # ReactiveCommand
 
-- The [online documentation for `ReactiveCommand`](https://reactiveui.net/docs/handbook/commands/) states that `ReactiveCommand.Subscribe` ticks the value(s) of the `CreateFromObservable()` (and seemingly from `CreateFromAsyc()`; however, I observed that `ReactiveCommand.Subscribe` **never** ticked **any** values. See this [LinqPad](https://www.linqpad.net/) [query](./reactivecommand.linq).
+- The [online documentation for `ReactiveCommand`](https://reactiveui.net/docs/handbook/commands/) states that `ReactiveCommand.Subscribe` ticks the value(s) of the `CreateFromObservable()` (and seemingly from `CreateFromAsyc()`; however, I observed that `ReactiveCommand.Subscribe` **never** ticked **any** values. See this [LinqPad](https://www.linqpad.net/) [query](file://reactivecommand.linq).
