@@ -10,4 +10,5 @@
 - [Newtonsoft.Json](./NewtonsoftJson)
 - [Python for .NET](./PythonForDotNet)
 - [Reactive Extensions (Rx.NET)](./RxDotNet)
+- [ReactiveUI](./ReactiveUI/)
 - [TickSpec](./TickSpec)
