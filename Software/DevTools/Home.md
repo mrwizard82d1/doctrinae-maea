@@ -7,5 +7,6 @@
 - [Gherkin](./gherkin)
 - [Multi](http://www.exampler.com/testing-com/tools/multi/README.html)
     A tool for generating test ideas for boolean expressions / if statements
+- [NuGet](./nuget)
 - [SQL Server](./sql-server)
 - [vim](./vim)
