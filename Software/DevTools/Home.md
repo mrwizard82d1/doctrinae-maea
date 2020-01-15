@@ -10,4 +10,5 @@
 - [NuGet](./nuget)
 - [rsync](./rsync)
 - [SQL Server](./sql-server)
+- [tmux](./tmux)
 - [vim](./vim)
