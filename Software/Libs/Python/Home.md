@@ -1,5 +1,6 @@
 # Python Libs
 
+- [fabric](./fabric)
 - [hoverpy](./hoverpy)
 - [matplotlib](./matplotlib)
 - [numpy](./numpy)
