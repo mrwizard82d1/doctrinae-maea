@@ -10,6 +10,7 @@
     A tool for generating test ideas for boolean expressions / if statements
 - [NuGet](./nuget)
 - [rsync](./rsync)
+- [ssh](./ssh)
 - [SQL Server](./sql-server)
 - [tmux](./tmux)
 - [vim](./vim)
