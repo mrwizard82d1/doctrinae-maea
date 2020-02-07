@@ -15,3 +15,4 @@
 - [tar](./tar)
 - [tmux](./tmux)
 - [vim](./vim)
+- [7-zip](./7-zip)
