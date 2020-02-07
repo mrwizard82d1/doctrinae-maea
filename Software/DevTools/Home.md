@@ -12,5 +12,6 @@
 - [rsync](./rsync)
 - [ssh](./ssh)
 - [SQL Server](./sql-server)
+- [tar](./tar)
 - [tmux](./tmux)
 - [vim](./vim)
