@@ -328,7 +328,7 @@ Getting the value of an observable:
 
 ##### Node.js
 
-Running rode inside `rlwrap`:
+Running node inside `rlwrap`:
 
 - https://nodejs.org/api/repl.html
 - save://file:node-repl.pdf
