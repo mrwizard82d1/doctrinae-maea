@@ -4,4 +4,4 @@
 - [Probability distributions in Python (`scipy`)](https://www.datacamp.com/community/tutorials/probability-distributions-python)
 
 - Commonly Used Distributions<br />
-    file://../../commonly_used_distributions_slides.pdf
+    file://commonly_used_distributions_slides.pdf
