@@ -1,6 +1,6 @@
 # Data Science
 - [Choose Bin Sizes for Histograms - Rules](https://www.statisticshowto.datasciencecentral.com/choose-bin-sizes-statistics/)<br />
-    Different heuristic rules are near the bottom of the article
+    See sections on "Sturge's Rule" and "Advanced Formulas"
 - [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
 - [Distributions](./distributions)
 - [Histogram and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
