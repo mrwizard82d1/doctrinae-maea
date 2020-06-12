@@ -7,3 +7,4 @@
 - [pandas](./pandas)
 - [pyodbc](./pyodbc)
 - [requests](./requests)
+- [toolz](./toolz)
