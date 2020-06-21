@@ -7,3 +7,4 @@
 - [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Pathlib Cheatsheet](https://github.com/chris1610/pbpython/blob/master/extras/Pathlib-Cheatsheet.pdf)
 - [Python 3's Pathlib Module](https://realpython.com/python-pathlib/)
+- [Python Descriptors: An Introduction](https://realpython.com/python-descriptors/)
