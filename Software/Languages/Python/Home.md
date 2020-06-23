@@ -5,6 +5,7 @@
 - [Debugging using `pdb`](https://realpython.com/python-debugging-pdb/)
 - [Four ways to manage the configuration in Python](https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b)
 - [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+- [Naming conventions with underscores](https://medium.com/python-features/naming-conventions-with-underscores-in-python-791251ac7097)
 - [Pathlib Cheatsheet](https://github.com/chris1610/pbpython/blob/master/extras/Pathlib-Cheatsheet.pdf)
 - [Python 3's Pathlib Module](https://realpython.com/python-pathlib/)
 - [Python Descriptors: An Introduction](https://realpython.com/python-descriptors/)
