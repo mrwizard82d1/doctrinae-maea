@@ -7,6 +7,7 @@
 - [Gherkin](./gherkin)
 - [git](./git)
 - [hoverfly](./hoverfly) A network proxy useful for testing
+- [jupyter(lab)](./jupyter)<br>  A Python (actually, multilanguage) REPL (notebook)
 - [Multi](http://www.exampler.com/testing-com/tools/multi/README.html)
     A tool for generating test ideas for boolean expressions / if statements
 - [NuGet](./nuget)
