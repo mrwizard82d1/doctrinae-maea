@@ -10,3 +10,4 @@
 - [Pathlib Cheatsheet](https://github.com/chris1610/pbpython/blob/master/extras/Pathlib-Cheatsheet.pdf)
 - [Python 3's Pathlib Module](https://realpython.com/python-pathlib/)
 - [Python Descriptors: An Introduction](https://realpython.com/python-descriptors/)
+- [Understanding the Python Mock Object Library](https://realpython.com/python-mock-library/)
