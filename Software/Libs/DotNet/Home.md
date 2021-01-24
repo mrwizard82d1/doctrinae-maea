@@ -6,6 +6,7 @@
 - [Azure EventHubs](./AzureEventHubs)
 - [Azure Resource Management](./AzureResourceManagement)
 - [BCL](./BCL)
+- [FsCheck)(./FsCheck)
 - [MongoDB](./MongoDB)
 - [Moq](./Moq)
 - [Newtonsoft.Json](./NewtonsoftJson)
