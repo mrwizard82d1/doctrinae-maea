@@ -1,5 +1,6 @@
 # Pandas
 
+- [Creating a DataFrame with specific column `dtypes`](https://stackoverflow.com/questions/38235992/initialize-pandas-dataframe-with-defined-dtypes)
 - [How to calculate Bootstrap confidence intervals](https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/)
 - [A numerical integration recipe](https://nbviewer.jupyter.org/gist/metakermit/5720498)<br/>  Note that the "magic" 1e9 in the recipe converts from nanoseconds, the fundamental unit of np.datetime64, to seconds.
 - [Reshaping data](https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77)
