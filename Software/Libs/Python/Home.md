@@ -2,6 +2,7 @@
 
 - [fabric](./fabric)
 - [hoverpy](./hoverpy)
+- [jupyterlab](./jupyterlab)
 - [matplotlib](./matplotlib)
 - [numpy](./numpy)
 - [pandas](./pandas)
