@@ -1,4 +1,5 @@
 # Data Science
+
 - [Choose Bin Sizes for Histograms - Rules](https://www.statisticshowto.datasciencecentral.com/choose-bin-sizes-statistics/)<br />
     See sections on "Sturge's Rule" and "Advanced Formulas"
 - [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
