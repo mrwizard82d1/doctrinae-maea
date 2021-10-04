@@ -4,6 +4,7 @@
     See sections on "Sturge's Rule" and "Advanced Formulas"
 - [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
 - [Distributions](./distributions)
+- [The `einsum` function](https://towardsdatascience.com/write-better-and-faster-python-using-einstein-notation-3b01fc1e8641)
 - [Histogram and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 - [Kernel Density Estimation (KDE)](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 - [Loss Function](https://en.wikipedia.org/wiki/Loss_function#Expected_loss)
