@@ -10,5 +10,6 @@
 - [Pathlib Cheatsheet](https://github.com/chris1610/pbpython/blob/master/extras/Pathlib-Cheatsheet.pdf)
 - [Python 3's Pathlib Module](https://realpython.com/python-pathlib/)
 - [Python Descriptors: An Introduction](https://realpython.com/python-descriptors/)
+- [Python Timers: Three Ways to Monitor Your Code](https://realpython.com/python-timer/)
 - [Single-sourcing the package version](https://packaging.python.org/guides/single-sourcing-package-version/)
 - [Understanding the Python Mock Object Library](https://realpython.com/python-mock-library/)
