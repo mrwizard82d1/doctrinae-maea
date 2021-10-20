@@ -2,7 +2,7 @@
 
 - [Bayes](./bayes)
 - [Data Science](./data-science/)
-- [Improving](./improving)
+- [Improving myself](./improving-myself)
 - [Internet](./Internet)
 - [Software Engineering](./software-engineering/)
 - [Start-ups](./start-ups/)
