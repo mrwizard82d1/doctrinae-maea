@@ -1,5 +1,6 @@
 # Statistics
 
+- [An explanation of all probability distributions](https://towardsdatascience.com/all-probability-distributions-explained-in-six-minutes-fe57b1d49600)
 - [How to calculate Bootstrap confidence intervals](https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/)
 - [How to identify outliers in your data](https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/)
 - [How to learn statistics from scratch](https://oscarnieves100.medium.com/how-to-learn-statistics-from-scratch-27fa79f929c7)
