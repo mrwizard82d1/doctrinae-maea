@@ -9,3 +9,5 @@
     The article describes functional programming very well; the section "Hexagonal Architecture and Functional Programming" describes its applications to architecture.
 - [Object-Relational Mapping](./orm/)
 - [RESTful APIs](./restful-apis/)
+- [Use Cases: The Purpose of your Code](https://joebew42.github.io/2021/10/23/use-cases-purpose-of-your-code/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20211120+prog+nl&mkt_tok=MTA3LUZNUy0wNzAAAAGA3X9-BlsjC20fJ3kutvzL9OM10JjAB78Fcj7D_bE5Y0EeYes9AumVkORUmj76s0mwQ2AI8lULeCAwl3XxZH3Bq6-OdPZoSIbFYCH-Quh4ZcBeGQ)
+
