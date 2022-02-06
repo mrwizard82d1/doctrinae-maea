@@ -6,6 +6,7 @@
 - [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
 - [Distributions](./distributions)
 - [The `einsum` function](https://towardsdatascience.com/write-better-and-faster-python-using-einstein-notation-3b01fc1e8641)
+- [German Tank Problem](https://ai.plainenglish.io/how-data-science-gave-the-allied-forces-an-edge-in-world-war-ii-7fe92a74add5)
 - [Getting Started with Causal Inference](https://towardsdatascience.com/getting-started-with-causal-inference-5cb61b707740)
 - [Histogram and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 - [How to structure notebooks](https://towardsdatascience.com/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0)
