@@ -1,6 +1,7 @@
 # Bayes
 
 - [Bayes’ Theorem Unbound](https://www.cantorsparadise.com/bayes-unbound-f0b464683e7c)
+- [German Tank Problem](https://ai.plainenglish.io/how-data-science-gave-the-allied-forces-an-edge-in-world-war-ii-7fe92a74add5)
 - [Monte Carlo for Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
 - [Probability audit](https://graeme-47328.medium.com/probability-audit-21d05c0a1f58)
 - [Probability audit Excel tool](https://graeme-47328.medium.com/probability-audit-free-excel-tool-a9ae9560fc83)
