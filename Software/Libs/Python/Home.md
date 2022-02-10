@@ -8,6 +8,7 @@
 - [pandas](./pandas)
 - [pyodbc](./pyodbc)
 - [requests](./requests)
+- [rxpy](./rxpy)
 - [toolz](./toolz)
 
 ## Other Python resources
