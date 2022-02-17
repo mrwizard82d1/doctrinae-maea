@@ -15,4 +15,5 @@
 - [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
 - [Poisson Process - Everything you need to know](https://towardsdatascience.com/the-poisson-process-everything-you-need-to-know-322aa0ab9e9a)
 - [Simple Monte Carlo Simulation to help Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
+- [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/)
 - [Use Monte Carlo Simulation to Help Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
