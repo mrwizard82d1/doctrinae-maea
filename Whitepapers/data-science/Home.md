@@ -11,6 +11,7 @@
 - [Histogram and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 - [How to structure notebooks](https://towardsdatascience.com/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0)
 - [Kernel Density Estimation (KDE)](https://en.wikipedia.org/wiki/Kernel_density_estimation)
+- [Logistic Regression Real Python](https://realpython.com/logistic-regression-python/)
 - [Loss Function](https://en.wikipedia.org/wiki/Loss_function#Expected_loss)
 - [Optimal Number of Bins in a Histogram](https://stats.stackexchange.com/questions/798/calculating-optimal-number-of-bins-in-a-histogram)
 - [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
