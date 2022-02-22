@@ -10,6 +10,7 @@
 - [Getting Started with Causal Inference](https://towardsdatascience.com/getting-started-with-causal-inference-5cb61b707740)
 - [Histogram and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 - [How to structure notebooks](https://towardsdatascience.com/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0)
+- [An irreverent statisticians guide to jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d)
 - [Kernel Density Estimation (KDE)](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 - [Logistic Regression Real Python](https://realpython.com/logistic-regression-python/)
 - [Loss Function](https://en.wikipedia.org/wiki/Loss_function#Expected_loss)
