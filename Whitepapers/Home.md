@@ -1,8 +1,8 @@
 # Table of Contents
 
-- [Bayes](./bayes)
+- [Bayes](./bayes/)
 - [Data Science](./data-science/)
-- [Evolutionary Algorithms)(./evolutionary)
+- [Evolutionary Algorithms](./evolutionary/)
 - [Improving myself](./improving-myself)
 - [Internet](./Internet)
 - [Software Engineering](./software-engineering/)
