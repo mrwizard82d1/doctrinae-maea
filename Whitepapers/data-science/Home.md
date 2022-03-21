@@ -1,6 +1,7 @@
 # Data Science
 
 - [An introduction to probabilistic programming](https://towardsdatascience.com/intro-to-probabilistic-programming-b47c4e926ec5)
+- [Artificial bee colony](https://towardsdatascience.com/implementing-artificial-bee-colony-algorithm-to-solve-business-problems-cb754f3b9255)
 - [Choose Bin Sizes for Histograms - Rules](https://www.statisticshowto.datasciencecentral.com/choose-bin-sizes-statistics/)<br />
     See sections on "Sturge's Rule" and "Advanced Formulas"
 - [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
