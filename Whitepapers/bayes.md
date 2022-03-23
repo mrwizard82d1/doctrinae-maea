@@ -10,6 +10,6 @@
 - [Probability audit Excel tool](https://graeme-47328.medium.com/probability-audit-free-excel-tool-a9ae9560fc83)
 - [Probability for Pragmatists](https://www.cantorsparadise.com/probability-for-pragmatists-c781d4e68c53)
 - [Simple Bayesian Example](https://www.cantorsparadise.com/what-is-bayesian-statistics-3bc39b19c45f)
-  And my question: "How might one apply decision theory to determining the ROPE?"
+  My question: "How might one apply decision theory to determining the ROPE?"
 - [Transforming Scores into Probability](https://www.cantorsparadise.com/transforming-scores-into-probability-fb4d4be7deab)
 - [The Two Schools of Probability](https://www.cantorsparadise.com/the-two-schools-of-probability-theory-76d0c0c8198d)
