@@ -16,6 +16,7 @@
 - [Kernel Density Estimation (KDE)](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 - [Logistic Regression Real Python](https://realpython.com/logistic-regression-python/)
 - [Loss Function](https://en.wikipedia.org/wiki/Loss_function#Expected_loss)
+- [Markdown and LaTex in Jupyter Notebooks](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
 - [Optimal Number of Bins in a Histogram](https://stats.stackexchange.com/questions/798/calculating-optimal-number-of-bins-in-a-histogram)
 - [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
 - [Poisson Process - Everything you need to know](https://towardsdatascience.com/the-poisson-process-everything-you-need-to-know-322aa0ab9e9a)
