@@ -9,6 +9,7 @@
 - [The `einsum` function](https://towardsdatascience.com/write-better-and-faster-python-using-einstein-notation-3b01fc1e8641)
 - [Generalized Linear Models](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab )
 - [Getting Started with Causal Inference](https://towardsdatascience.com/getting-started-with-causal-inference-5cb61b707740)
+https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae 
 - [Histogram and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 - [How to structure notebooks](https://towardsdatascience.com/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0)
 - [Introducing splines to describe non-linear relationships](https://medium.com/codex/introducing-splines-to-describe-nonlinear-relationships-e8b9c6edbacc )
