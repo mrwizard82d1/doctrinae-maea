@@ -15,8 +15,7 @@ https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae
 - [Introducing splines to describe non-linear relationships](https://medium.com/codex/introducing-splines-to-describe-nonlinear-relationships-e8b9c6edbacc )
 - [An irreverent statisticians guide to jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d)
 - [Kernel Density Estimation (KDE)](https://en.wikipedia.org/wiki/Kernel_density_estimation)
-- [LaTex Cheat Sheet](https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae)
-  A primer
+- [LaTeX Math Formulas - A Cheat Sheet](https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae)
 - [Logistic Regression Real Python](https://realpython.com/logistic-regression-python/)
 - [Loss Function](https://en.wikipedia.org/wiki/Loss_function#Expected_loss)
 - [Markdown and LaTex in Jupyter Notebooks](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
