@@ -6,6 +6,7 @@
 - [matplotlib](./matplotlib)
 - [numpy](./numpy)
 - [pandas](./pandas)
+- [pymc3](./pymc3)
 - [pyodbc](./pyodbc)
 - [requests](./requests)
 - [rxpy](./rxpy)
