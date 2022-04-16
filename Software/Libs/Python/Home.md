@@ -10,6 +10,7 @@
 - [pyodbc](./pyodbc)
 - [requests](./requests)
 - [rxpy](./rxpy)
+- [sphinx](./sphinx)
 - [toolz](./toolz)
 
 ## Other Python resources
