@@ -1,22 +1,24 @@
 # Data Science
 
-- Distributions
- - [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
- - [Distributions](./distributions)
+## Distributions
+- [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
+- [Distributions](./distributions)
+- [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
+- [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/)
 
-- Histograms
- - [3 Better Alternatives to Histograms](https://towardsdatascience.com/3-best-often-better-alternatives-to-histograms-61ddaec05305)
- - [Choose Bin Sizes for Histograms - Rules](https://www.statisticshowto.datasciencecentral.com/choose-bin-sizes-statistics/)<br />
+## Histograms
+
+- [3 Better Alternatives to Histograms](https://towardsdatascience.com/3-best-often-better-alternatives-to-histograms-61ddaec05305)
+- [Choose Bin Sizes for Histograms - Rules](https://www.statisticshowto.datasciencecentral.com/choose-bin-sizes-statistics/)<br />
     See sections on "Sturge's Rule" and "Advanced Formulas"
- - [Histogram and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
- - [Optimal Number of Bins in a Histogram](https://stats.stackexchange.com/questions/798/calculating-optimal-number-of-bins-in-a-histogram)
+- [Histogram and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
+- [Optimal Number of Bins in a Histogram](https://stats.stackexchange.com/questions/798/calculating-optimal-number-of-bins-in-a-histogram)
 
-- LaTeX
- - [LaTeX Math Formulas - A Cheat Sheet](https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae)
- - [Markdown and LaTex in Jupyter Notebooks](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
+## LaTeX
+- [LaTeX Math Formulas - A Cheat Sheet](https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae)
+- [Markdown and LaTex in Jupyter Notebooks](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
 
-
-
+## Other
 - [An introduction to probabilistic programming](https://towardsdatascience.com/intro-to-probabilistic-programming-b47c4e926ec5)
 - [Artificial bee colony](https://towardsdatascience.com/implementing-artificial-bee-colony-algorithm-to-solve-business-problems-cb754f3b9255)
 - [The `einsum` function](https://towardsdatascience.com/write-better-and-faster-python-using-einstein-notation-3b01fc1e8641)
@@ -29,10 +31,8 @@ https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae
 - [Kernel Density Estimation (KDE)](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 - [Logistic Regression Real Python](https://realpython.com/logistic-regression-python/)
 - [Loss Function](https://en.wikipedia.org/wiki/Loss_function#Expected_loss)
-- [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
 - [Poisson Process - Everything you need to know](https://towardsdatascience.com/the-poisson-process-everything-you-need-to-know-322aa0ab9e9a)
 - [Simple Monte Carlo Simulation to help Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
 - [Two Functions to Know before Using the Poisson Distribution](https://towardsdatascience.com/2-functions-you-should-know-before-using-poisson-distribution-d470db790bfc)
-- [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/)
 - [Use Monte Carlo Simulation to Help Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
 - [The Waiting Paradox and the Exponential Distribution](https://www.cantorsparadise.com/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1)
