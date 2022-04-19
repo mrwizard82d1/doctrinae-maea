@@ -16,3 +16,5 @@
   My question: "How might one apply decision theory to determining the ROPE?"
 - [Transforming Scores into Probability](https://www.cantorsparadise.com/transforming-scores-into-probability-fb4d4be7deab)
 - [The Two Schools of Probability](https://www.cantorsparadise.com/the-two-schools-of-probability-theory-76d0c0c8198d)
+- [The Waiting Paradox and the Exponential Distribution](https://www.cantorsparadise.com/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1)
+
