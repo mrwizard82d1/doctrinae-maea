@@ -26,3 +26,4 @@ https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae
 - [Two Functions to Know before Using the Poisson Distribution](https://towardsdatascience.com/2-functions-you-should-know-before-using-poisson-distribution-d470db790bfc)
 - [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/)
 - [Use Monte Carlo Simulation to Help Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
+- [The Waiting Paradox and the Exponential Distribution](https://www.cantorsparadise.com/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1)
