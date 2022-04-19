@@ -1,7 +1,7 @@
 # Table of Contents
 
-- [Bayes](./bayes/)
-- [Chaos Theory)(./chaos/)
+- [Bayes](./bayes)
+- [Chaos Theory](./chaos)
 - [Data Science](./data-science/)
 - [Evolutionary Algorithms](./evolutionary)
 - [Improving myself](./improving-myself)
