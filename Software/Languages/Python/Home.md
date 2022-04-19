@@ -2,6 +2,7 @@
 
 - [A cheatsheet for mocking in Python](https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832)
 - [Create a temporary file readable by another process on windows](https://stackoverflow.com/questions/15169101/how-to-create-a-temporary-file-that-can-be-read-by-a-subprocess)
+- [Chaos Theory Meets Python Programming](https://medium.com/codex/chaos-b1544ad03948)
 - [Debugging using `pdb`](https://realpython.com/python-debugging-pdb/)
 - [Deprecating a class](https://dev.to/hckjck/python-deprecation-2mof)
 - [Four ways to manage the configuration in Python](https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b)
