@@ -1,3 +1,3 @@
 # Chaos Theory
 
-- [Chaos Theory](https://medium.com/codex/chaos-b1544ad03948)
+- [Chaos Theory Meets Python Programming](https://medium.com/codex/chaos-b1544ad03948)
