@@ -1,5 +1,8 @@
 # Data Science
 
+## Decisions
+- [Loss Function](https://en.wikipedia.org/wiki/Loss_function#Expected_loss)
+
 ## Distributions
 - [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
 - [Distributions](./distributions)
@@ -28,11 +31,9 @@ https://forketyfork.medium.com/latex-math-formulas-a-cheat-sheet-21e5eca70aae
 - [How to structure notebooks](https://towardsdatascience.com/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0)
 - [Introducing splines to describe non-linear relationships](https://medium.com/codex/introducing-splines-to-describe-nonlinear-relationships-e8b9c6edbacc )
 - [An irreverent statisticians guide to jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d)
+- [How to Use Monte Carlo Simulation to Help Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
 - [Kernel Density Estimation (KDE)](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 - [Logistic Regression Real Python](https://realpython.com/logistic-regression-python/)
-- [Loss Function](https://en.wikipedia.org/wiki/Loss_function#Expected_loss)
 - [Poisson Process - Everything you need to know](https://towardsdatascience.com/the-poisson-process-everything-you-need-to-know-322aa0ab9e9a)
-- [Simple Monte Carlo Simulation to help Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
 - [Two Functions to Know before Using the Poisson Distribution](https://towardsdatascience.com/2-functions-you-should-know-before-using-poisson-distribution-d470db790bfc)
-- [Use Monte Carlo Simulation to Help Decision Making](https://towardsdatascience.com/how-to-use-monte-carlo-simulation-to-help-decision-making-a0a164bc8619)
 - [The Waiting Paradox and the Exponential Distribution](https://www.cantorsparadise.com/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1)
