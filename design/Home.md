@@ -4,7 +4,7 @@
 - [Clean Architecture Part 1: Database versus Domain](https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/)<br />
     This article is part 1 of 2. It describes a number of different architectural approaches.
 - [Clean Web Apps](https://medium.com/@bernardo.teixeira.691/how-to-use-startup-cs-with-clean-architecture-4c5f8cd9edd4)
-- [Five Koans of Software Architecture](https://bellmar.medium.com/five-koans-of-software-architecture-f9f7305598c20)
+- [Five Koans of Software Architecture](https://bellmar.medium.com/five-koans-of-software-architecture-f9f7305598c2)
 - [In defense of clean code](https://levelup.gitconnected.com/in-defense-of-clean-code-2592165487d4)
 - [Hexagonal Architecture and Functional Programming](https://medium.com/@jondot/functional-programming-with-python-for-people-without-time-1eebdbd9526c)<br />
     The article describes functional programming very well; the section "Hexagonal Architecture and Functional Programming" describes its applications to architecture.
