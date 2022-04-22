@@ -5,6 +5,7 @@
 - [Bayesian Inference Using PyMC3](https://medium.com/airy-science/bayesian-inference-with-probabilistic-programming-using-pymc3-a00702ccd9e0)
 - [Bayesian Tricks for Everyday Use](https://towardsdatascience.com/bayesian-tricks-for-everyday-use-2b51da45f3ec)
 - [Causal Relationships with Bayesian Networks](https://medium.datadriveninvestor.com/casual-relationship-with-bayesian-networks-ad8bc46235e4)
+- [Customer Lifetime Values Modeling using PyMC3](https://towardsdatascience.com/bayesian-customer-lifetime-values-modeling-using-pymc3-d770676f5c06)
 - [Generalized Linear Models using Logistics Regression](https://towardsdatascience.com/smokin-bayes-cd6eb089fcd3)
 - [German Tank Problem](https://ai.plainenglish.io/how-data-science-gave-the-allied-forces-an-edge-in-world-war-ii-7fe92a74add5)
 - [The importance of Bayesian thinking in everyday life](https://towardsdatascience.com/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)
