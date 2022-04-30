@@ -13,12 +13,12 @@
 - [Common probability distributions and their applications](https://en.wikipedia.org/wiki/Probability_distribution#Common_probability_distributions_and_their_applications)
 - [Distributions](./distributions)
 - [Gamma Distribution Simply Explained](https://towardsdatascience.com/gamma-distribution-simply-explained-d95a9de16278)
+- [Modeling data to distributions](https://medium.com/@rajakash31/modeling-data-to-distributions-9300b62747e2)
 - [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
 - [Poisson Process - Everything you need to know](https://towardsdatascience.com/the-poisson-process-everything-you-need-to-know-322aa0ab9e9a)
 - [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/)
 - [The Waiting Paradox and the Exponential Distribution](https://www.cantorsparadise.com/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1)
 - [Two Functions to Know before Using the Poisson Distribution](https://towardsdatascience.com/2-functions-you-should-know-before-using-poisson-distribution-d470db790bfc)
-- [Two useful distributions](https://medium.com/@rajakash31/modeling-data-to-distributions-9300b62747e2)
 
 ## Histograms
 
