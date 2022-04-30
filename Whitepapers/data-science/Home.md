@@ -18,6 +18,7 @@
 - [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/)
 - [The Waiting Paradox and the Exponential Distribution](https://www.cantorsparadise.com/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1)
 - [Two Functions to Know before Using the Poisson Distribution](https://towardsdatascience.com/2-functions-you-should-know-before-using-poisson-distribution-d470db790bfc)
+- [Two useful distributions](https://medium.com/@rajakash31/modeling-data-to-distributions-9300b62747e2)
 
 ## Histograms
 
