@@ -13,5 +13,6 @@
 - [Python 3's Pathlib Module](https://realpython.com/python-pathlib/)
 - [Python Descriptors: An Introduction](https://realpython.com/python-descriptors/)
 - [Python Timers: Three Ways to Monitor Your Code](https://realpython.com/python-timer/)
+- [Running shell commands and capturing outputs](https://stackoverflow.com/questions/4760215/running-shell-command-and-capturing-the-outpute)
 - [Single-sourcing the package version](https://packaging.python.org/guides/single-sourcing-package-version/)
 - [Understanding the Python Mock Object Library](https://realpython.com/python-mock-library/)
