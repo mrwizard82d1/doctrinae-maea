@@ -20,6 +20,9 @@
 - [The Waiting Paradox and the Exponential Distribution](https://www.cantorsparadise.com/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1)
 - [Two Functions to Know before Using the Poisson Distribution](https://towardsdatascience.com/2-functions-you-should-know-before-using-poisson-distribution-d470db790bfc)
 
+## Entropy
+- [It took me 10 years to understand entropy](https://www.cantorsparadise.com/it-took-me-10-years-to-understand-entropy-here-is-what-i-learned-b2d51e8ccd4c)
+
 ## Histograms
 
 - [3 Better Alternatives to Histograms](https://towardsdatascience.com/3-best-often-better-alternatives-to-histograms-61ddaec05305)
