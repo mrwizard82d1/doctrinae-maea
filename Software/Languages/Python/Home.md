@@ -5,6 +5,7 @@
 - [Chaos Theory Meets Python Programming](https://medium.com/codex/chaos-b1544ad03948)
 - [Debugging using `pdb`](https://realpython.com/python-debugging-pdb/)
 - [Deprecating a class](https://dev.to/hckjck/python-deprecation-2mof)
+- [Effective Python Testing using PyTest](https://realpython.com/pytest-python-testing/)
 - [Four ways to manage the configuration in Python](https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b)
 - [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Mocking open for multiple files](https://gist.github.com/adammartinez271828/137ae25d0b817da2509c1a96ba37fc56)
