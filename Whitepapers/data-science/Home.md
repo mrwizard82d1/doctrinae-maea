@@ -41,6 +41,7 @@
 ## Other
 - [Artificial bee colony](https://towardsdatascience.com/implementing-artificial-bee-colony-algorithm-to-solve-business-problems-cb754f3b9255)
 - [The `einsum` function](https://towardsdatascience.com/write-better-and-faster-python-using-einstein-notation-3b01fc1e8641)
+- ["Good" datasets for data science](https://towardsdatascience.com/18-non-clich%C3%A9-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829)
 - [How to structure notebooks](https://towardsdatascience.com/how-to-structure-your-data-science-notebook-to-be-easy-to-follow-2d3c2777e6e0)
 - [Introducing splines to describe non-linear relationships](https://medium.com/codex/introducing-splines-to-describe-nonlinear-relationships-e8b9c6edbacc )
 - [An irreverent statisticians guide to jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d)
