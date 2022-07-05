@@ -4,6 +4,7 @@
 - [Bayesian hierarchical A/B testing with PyMC3](https://medium.com/geekculture/bayesian-hierarchical-a-b-testing-with-pymc3-f2c6bab14b24)
 - [Bayesian Inference for Predictions](https://towardsdatascience.com/how-to-use-bayesian-inference-for-predictions-in-python-4de5d0bc84f3)
 - [Bayesian Inference Using PyMC3](https://medium.com/airy-science/bayesian-inference-with-probabilistic-programming-using-pymc3-a00702ccd9e0)
+- [Bayesian Price Optimization](https://towardsdatascience.com/bayesian-price-optimization-with-pymc3-d1264beb38ee)
 - [Bayesian Tricks for Everyday Use](https://towardsdatascience.com/bayesian-tricks-for-everyday-use-2b51da45f3ec)
 - [Causal Relationships with Bayesian Networks](https://medium.datadriveninvestor.com/casual-relationship-with-bayesian-networks-ad8bc46235e4)
 - [Customer Lifetime Values Modeling using PyMC3](https://towardsdatascience.com/bayesian-customer-lifetime-values-modeling-using-pymc3-d770676f5c06)
