@@ -6,8 +6,8 @@
 - [Clean Architecture: Applying with React](https://dev.to/rubemfsv/arquitetura-limpa-aplicando-com-react-1eo0)<br />
     This page may need to be translated. Describes (unfortunately with many details) applying clean architecture to a single page application using TypeScript and React. <br />
 
-    At the end of the article references two GitHub repositories (which may also require translation) that contain the details for this example.
-    - [Creating a clean React app](https://github.com/rubemfsv/clean-react-app)
+    At the end of the article references two GitHub repositories (which may also require translation) that contain the details for this example.<br />
+    - [Creating a clean React app](https://github.com/rubemfsv/clean-react-app)<br />
     - [Clean React](https://github.com/rmanguinho/clean-react)
 - [Clean Web Apps](https://medium.com/@bernardo.teixeira.691/how-to-use-startup-cs-with-clean-architecture-4c5f8cd9edd4)
 - [Five Koans of Software Architecture](https://bellmar.medium.com/five-koans-of-software-architecture-f9f7305598c2)
