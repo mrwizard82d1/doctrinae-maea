@@ -4,3 +4,5 @@
     - [Introduction](https://dev.to/gr2m/github-api-authentication-introduction-39dj)
     - [Personal access token](https://dev.to/gr2m/github-api-authentication-personal-access-tokens-53kd)
     - [GitHub actions](https://dev.to/gr2m/github-api-authentication-github-actions-la3)
+    - [Basic (Username / Password)](https://dev.to/gr2m/github-api-authentication-username-password-basic-4na5)
+
