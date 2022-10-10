@@ -12,6 +12,7 @@
 - [jupyter(lab)](./jupyter)<br>  A Python (actually, multilanguage) REPL (notebook)
 - [Multi](http://www.exampler.com/testing-com/tools/multi/README.html)
     A tool for generating test ideas for boolean expressions / if statements
+- [Node.js](./nodejs)
 - [NuGet](./nuget)
 - [PostGreSQL](./psql)
 - [rsync](./rsync)
