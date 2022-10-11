@@ -13,4 +13,5 @@
 - [Python for .NET](./PythonForDotNet)
 - [Reactive Extensions (Rx.NET)](./RxDotNet)
 - [ReactiveUI](./ReactiveUI/)
+- [SAFE Stack](./safe-stack)
 - [TickSpec](./TickSpec)
